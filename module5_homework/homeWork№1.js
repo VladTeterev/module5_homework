@@ -1,3 +1,4 @@
+// ЧЕТНОЕ - НЕЧЕТНОЕ
 let value = prompt("Введите значение");
 let result = +value;
 if (typeof result == "number" && !isNaN(result)) {
