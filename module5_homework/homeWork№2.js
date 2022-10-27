@@ -1,3 +1,4 @@
+// ОПРЕДЕЛЕНИЕ ТИПА ДАННЫХ
 let x = true;
 let typeOfX = typeof x;
 if (typeOfX === "number") {
